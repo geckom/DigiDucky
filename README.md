@@ -7,4 +7,6 @@ How to use a DigiSpark like a RubberDucky
 3. Run the digiducky_example.ino script in the Arduino IDE - This is a rickroll payload for Windows. It should automatically open on youtube.
 4. Use the provided bash script to convert rubber ducky scripts to digispark scripts (digiducky_compile.sh) NOTE: Untested
 
+3d printable case design included in STL and OBJ formats.
+
 *Developed by Geckom. More details at http://www.redteamr.com/2016/08/digiducky/*
